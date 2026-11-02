@@ -76,12 +76,13 @@ I'm a software engineer specializing in **React, Next.js, TypeScript and modern 
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=essraaamr2002&show_icons=true&hide_border=true&theme=dark" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essraaamr2002&layout=compact&hide_border=true&theme=dark" />
-</div>
+My up-to-date contributions, repositories and languages are available directly on GitHub:
 
-<sub>Language statistics are based on public repository code, not a complete measure of professional skills. Third-party stats images may occasionally be unavailable.</sub>
+- 📈 [Contribution activity](https://github.com/essraaamr2002?tab=overview&from=2026-11-01&to=2026-11-30)
+- 💻 [Public repositories](https://github.com/essraaamr2002?tab=repositories)
+- 🧩 [Explore my projects and tech stack](https://github.com/essraaamr2002?tab=repositories)
+
+> I prefer linking to live GitHub activity rather than using third-party statistics images that may fail to load.
 
 ## 🤝 Let's Connect
 
