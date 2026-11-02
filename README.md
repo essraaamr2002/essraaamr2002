@@ -2,7 +2,7 @@
 
 # Hi, I'm Esraa Amr 👋
 
-### Software Engineer · Frontend Specialist · Growing Full Stack Developer
+### Software Engineer · React & Next.js Specialist · Full Stack Development
 
 **Building practical, responsive and maintainable software.**
 
@@ -62,28 +62,27 @@ I'm a software engineer specializing in **React, Next.js, TypeScript and modern 
 - **API-connected features:** integrating frontend applications with backend services.
 - **Mobile experiences:** cross-platform development with React Native and Expo.
 
-## 📌 Selected Public Projects
+## 🌟 Featured Work
 
-| Project | Repository |
-| --- | --- |
-| 🛒 **E-commerce Web App** | [View code](https://github.com/essraaamr2002/e-commerce) |
-| 🤖 **AI Chat Project** | [View code](https://github.com/essraaamr2002/CodeAlpha_AIChat) |
-| ✅ **React Task Management** | [View code](https://github.com/essraaamr2002/React-Task-Management) |
-| 🎬 **Movie App** | [View code](https://github.com/essraaamr2002/es-movie) |
-| 💼 **Animated Portfolio** | [View code](https://github.com/essraaamr2002/EsraaAmrPortfolioAnimation) |
+I value clear architecture, responsive experiences and reliable integrations. Here are selected public projects showing different parts of my work:
 
-> These are selected public repositories. See each repository for its implementation details and setup instructions.
+| Project | Engineering focus | Links |
+| --- | --- | --- |
+| **Stunning — Prompt Improver** | Next.js, TypeScript, API route, optional AI processing and fallback UX | [Live demo](https://stunning-task-three.vercel.app/) · [Code](https://github.com/essraaamr2002/stunning-task) |
+| **Production-Safe Frontend** | API configuration, authentication workflows, defensive UI states | [Code](https://github.com/essraaamr2002/production-safe-frontend) |
+| **React Task Management** | React, TypeScript, routing and task interface | [Code](https://github.com/essraaamr2002/React-Task-Management) |
+| **Animated Portfolio** | Next.js, motion and interactive UI | [Code](https://github.com/essraaamr2002/EsraaAmrPortfolioAnimation) |
+| **Dhikr Notifier** | React Native, Expo, local notifications and audio | [Code](https://github.com/essraaamr2002/dhikr-notifier) |
+| **E-commerce Frontend** | React, Redux, routing and storefront components | [Code](https://github.com/essraaamr2002/e-commerce) |
+
+> **My full stack journey:** The Stunning project includes backend processing through a Next.js route handler. I'm continuing to develop deeper experience with databases, authentication and backend architecture.
 
 ## 📊 GitHub Activity
 
-My up-to-date contributions, repositories and languages are available directly on GitHub:
+Browse my work and GitHub contribution history:
 
-- 📈 [Contribution activity](https://github.com/essraaamr2002?tab=overview&from=2026-11-01&to=2026-11-30)
+- 📈 [Contribution activity](https://github.com/essraaamr2002)
 - 💻 [Public repositories](https://github.com/essraaamr2002?tab=repositories)
-- 🧩 [Explore my projects and tech stack](https://github.com/essraaamr2002?tab=repositories)
-
-> I prefer linking to live GitHub activity rather than using third-party statistics images that may fail to load.
-
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/esraa-amr](https://www.linkedin.com/in/esraa-amr/)
